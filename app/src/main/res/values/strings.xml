@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">exercise_2</string>
+    <string name="inicio">Bienvenidos</string>
+    <string name="tv">Tv</string>
+    <string name="smartphone">Smartphone</string>
+    <string name="tablet">Tablet</string>
+</resources>
